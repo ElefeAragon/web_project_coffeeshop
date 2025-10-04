@@ -280,6 +280,13 @@
   vertical-align: middle;
 }
 
+.form__lable {
+  margin: 8px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+}
+
 .form__lable_direction_right {
   display: inline;
   margin-left: 12px;
